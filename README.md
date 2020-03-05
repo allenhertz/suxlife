@@ -1,0 +1,2 @@
+# suxlife
+wechat mini-program
